@@ -1,0 +1,14 @@
+diff --git a/paper.md b/paper.md
+index 1af1f2f..f760e7a 100644
+--- a/paper.md
++++ b/paper.md
+@@ -15,7 +15,6 @@ It is usually based on a symbolic meaning or frequency within its borders.
+ * eagles
+ * cobra
+ 
+-# list of swiss favourite animals
++# list of american animals
+ 
+-* deer
+-* falcon
++* grizzly bears
