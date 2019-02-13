@@ -14,3 +14,8 @@ It is usually based on a symbolic meaning or frequency within its borders.
 * monkeys
 * eagles
 * cobra
+
+# list of swiss favourite animals
+
+* deer
+* falcon
