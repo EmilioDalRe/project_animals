@@ -8,3 +8,9 @@ author: Emilio Dal Re
 animals differ among countries.
 Every country has its own national animal that is unique to that country.
 It is usually based on a symbolic meaning or frequency within its borders.
+
+# list of favourite animals
+
+* monkeys
+* eagles
+* cobra
