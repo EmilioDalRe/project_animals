@@ -15,7 +15,6 @@ It is usually based on a symbolic meaning or frequency within its borders.
 * eagles
 * cobra
 
-# list of swiss favourite animals
+# list of american animals
 
-* deer
-* falcon
+* grizzly bears
