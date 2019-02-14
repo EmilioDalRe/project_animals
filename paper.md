@@ -18,3 +18,7 @@ It is usually based on a symbolic meaning or frequency within its borders.
 # list of american animals
 
 * grizzly bears
+
+# Conclusion
+
+To conclude in style, consider an epigraph. -Bart
